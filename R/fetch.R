@@ -4,6 +4,7 @@
 
 URL_INFO <- "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/info"
 URL_TABLE <- "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/table"
+URL_RATE_LIMIT <- "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/rate_limit"
 
 # Functions -------------------------------------------------------------------
 
